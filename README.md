@@ -10,3 +10,4 @@ Project material on Interneting Is Hard HTML CSS Course from https://www.interne
 8. advanced positioning
 9. responsive design
 
+--in progress--
